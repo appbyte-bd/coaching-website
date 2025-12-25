@@ -37,18 +37,17 @@ const Contact = () => {
                             <div className="details mb-4 text-center">
                                 <i className="text-3xl text-indigo-600">📍</i>
                                 <div className="topic text-lg font-medium">Address</div>
-                                <div className="text-one text-sm text-indigo-500">Road No-01, Block-I</div>
-                                <div className="text-two text-sm text-indigo-500">Halishahar, Chattogram</div>
+                                <div className="text-one text-sm text-indigo-500">Heyatpur Bazer Nawabgong Dinajpur</div>
                             </div>
                             <div className="details mb-4 text-center">
                                 <i className="text-3xl text-indigo-600">📞</i>
                                 <div className="topic text-lg font-medium">Phone</div>
-                                <div className="text-one text-sm text-indigo-500">01891-614300</div>
+                                <div className="text-one text-sm text-indigo-500">01822102751</div>
                             </div>
                             <div className="details mb-4 text-center">
                                 <i className="text-3xl text-indigo-600">✉️</i>
                                 <div className="topic text-lg font-medium">Email</div>
-                                <div className="text-one text-sm text-indigo-500">jpinnovative@gmail.com</div>
+                                <div className="text-one text-sm text-indigo-500">istamim108@gmail.com</div>
                             </div>
                             <div className="absolute right-0 top-1/2 h-3/4 w-0.5 -translate-y-1/2 bg-gray-400 md:block"></div>
                         </div>

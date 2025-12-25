@@ -50,7 +50,7 @@ const Navbar = () => {
         {/* Logo */}
         <div className="flex items-center justify-center h-full overflow-y-hidden">
           <NavLink to="/" onClick={() => setShowNavbar(false)}>
-            <img src={"/logo.png"} alt="Logo" className="h-[45px]" />
+            <img src={"/logo.jpg"} alt="Logo" className="h-[45px]" />
           </NavLink>
         </div>
 

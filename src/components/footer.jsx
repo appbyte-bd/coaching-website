@@ -12,17 +12,17 @@ export default () => {
                         <Link to="/" className="inline-flex items-center gap-3">
                             <div className="flex items-center mb-4 md:mb-0">
                                 <i className="fab fa-slack text-3xl mr-2 text-white"></i>
-                                <span className="text-2xl font-bold text-white">JpInnovative</span>
+                                <span className="text-2xl font-bold text-white">সাকসেস কোচিং সেন্টার</span>
                             </div>
                         </Link>
 
                         <p className="mt-2 text-sm text-white max-w-xs leading-snug">
-                            Where comfort meets your step.
+                            স্বপ্ন দেখো বড় কঠোর পরিশ্রম করো এবং সফল হও
                         </p>
 
                         <div className="mt-3 flex gap-2">
                             <a
-                                href="https://www.facebook.com/profile.php?id=100078562877994"
+                                href="https://www.facebook.com/share/1AYmhT5Ag4/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="inline-flex items-center justify-center h-9 w-9 rounded-full bg-slate-100/60 text-slate-700 hover:bg-primary hover:text-white transition-all duration-300 shadow-sm"
@@ -31,7 +31,7 @@ export default () => {
                                 <span className="sr-only">Facebook</span>
                             </a>
                             <a
-                                href="https://wa.me/8801891614300"
+                                href="https://wa.me/8801822102751"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="inline-flex items-center justify-center h-9 w-9 rounded-full bg-slate-100/60 text-slate-700 hover:bg-primary hover:text-white transition-all duration-300 shadow-sm"
@@ -82,7 +82,7 @@ export default () => {
                 </div>
 
                 <div className="mt-2 pt-4 border-t border-slate-100 flex flex-col items-center justify-between gap-3">
-                    <p className="text-sm text-slate-200">© {year} JpInnovative. All rights reserved.</p>
+                    <p className="text-sm text-slate-200">© {year} Success Coaching Center. All rights reserved.</p>
                 </div>
                 <div className="mt-2 flex text-center justify-center">
                     <p className="text-sm text-slate-200">Developed By <a href="https://appbyte.net" target="_blank" rel="noopener noreferrer" className="text-rose-500 font-semibold underline">Appbyte</a></p>
